@@ -1,0 +1,27 @@
+const colors = {
+  white: '#ffffff',
+  black: '#000000',
+  black060606: '#060606',
+  black242424: '#242424',
+  blue166bc6: '#166bc6',
+  blue53a6fd: '#71a2d7ff',
+  blue3C7ECF: '#3C7ECF',
+  blue7db0de: '#7db0de',
+  blue3f5b75: '#3f5b75',
+  blue092642: '#092642',
+  grey647982: "#647982",
+  grey425b6b: "#425b6b",
+  grayBlue2c4052: "#2c4052",
+  gray6E7373: '#6E7373',
+  grayaaa: '#aaa',
+  graydbe0e2: '#dbe0e2',
+  gray8d9599: '#8d9599',
+  green388e3c: '#388e3c',
+  green4CAF50: '#4CAF50',
+  yellowc4bb89ff: '#c4bb89ff',
+  yellowFFD700: '#FFD700',
+  redD36585: "#d36585",
+  redC94351: "#c94351",
+};
+
+export default colors;
